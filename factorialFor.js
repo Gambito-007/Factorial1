@@ -19,5 +19,3 @@ function factorial2(n) {
 
 // Ejemplo de uso:
 console.log(factorial2(5)); // Imprime 120
-
-
