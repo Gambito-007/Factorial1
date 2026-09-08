@@ -8,4 +8,3 @@ function factorial(n) {
 
 // Ejemplo de uso:
 console.log(factorial(5)); // Imprime 120
-console.log(factorial(10)); // Imprime 120
