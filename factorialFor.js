@@ -10,3 +10,11 @@ function factorial(n) {
 console.log(factorial(5)); // Imprime 120
 console.log(factorial(33)); // Imprime 120
 console.log(factorial(35)); // Imprime 120
+
+let n = 5;
+let factorial = 1;
+
+for (let i = 1; i <= n; i++) {
+    factorial = factorial * i;
+    console.log(i + "! = " + factorial);
+}
